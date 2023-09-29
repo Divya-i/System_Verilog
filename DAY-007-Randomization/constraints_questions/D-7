@@ -1,0 +1,30 @@
+1 - Randomize the below variable such as class randvar; rand bit [7:0] var1, var2, var3, var4; endclass
+2 - There are two constraints applied to same variable ‘A’. one will generate the value within the range of [25:50] and another expression says the variable value should be greater than 40. What should be the value generated, and what is the reason?
+3 - Write a single constraint to generate random values for bit [8:0] variable in the below range, 1-34, 127, 129-156, 192-202,257-260.
+4 - Write a constraint without an inside function to generate random values within the range of 34 to 43?
+5 - Write a constraint to generate a random value for a var1 [7:0] within 50 and var2 [7:0] with the non-repeated value in every randomization?
+6 - Without using randomization method or rand keyword(modifiers), generate an array of unique values.
+7 - Generate unique elements in an array without using the keyword unique.
+8 - Write a constraint to generate 0, 1, x and z randomly.
+9 - Write a constraint to generate multiples of power 2.
+10 - Having 32-bit of variable, only single bit high values need to be accessed. Write a constraint for that.
+11 - 
+12 - Write a constraint with array size 5 to 10 values & the array values should be in ascending order/descending order
+13 - Write a constraint to generate a pattern 0102030405.
+14 - 
+15 - Constraint to generate unique numbers between 99 to 100.
+16 - Write a constraint - divisible by 5.
+17 - Derive odd numbers within the range of 10 to 30 using SV constraint
+18 - Write a constraint to generate prime numbers between the range of 1 to 100
+19 - How can we generate the factorial of the first 5 even numbers using constraints in SystemVerilog?
+20 - How can you generate a random number within a specified range using SystemVerilog? Write a code that generates a random number between 1.35 to 2.57 using SystemVerilog.
+21 - 
+22 - What is the constraint to generate the pattern 9 7 5 3 1 8 6 4 2 0 ?
+23 - 
+24 - 
+25 - 
+26 - Write a constraint to generate a variable with 0-31 bits should be 1, 32-61 bits should be 0.
+27 - How to generate a sequence of 10 random single-bit values that alternate between 0 and 1 like 101010101010?
+28 - Write a SystemVerilog program to randomize a 32-bit variable, but only randomize the 12th bit.
+29 - How can you define a constraint in SystemVerilog to ensure that even locations in a random array contain odd numbers, and odd locations contain even numbers?
+30 - Write a constraint in such a way that for read transaction 30% time and for write transaction 70% time.
